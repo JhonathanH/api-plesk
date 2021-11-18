@@ -1,0 +1,14 @@
+python/*.pyc
+python3/__pycache__/
+cpp/*.o
+cpp/example
+java/*.class
+c-sharp/bin
+c-sharp/obj
+c-sharp/*.suo
+vb/bin
+vb/obj
+vb/*.suo
+objective-c/**/xcuserdata/
+objective-c/**/*.xccheckout
+plain/execution.log
